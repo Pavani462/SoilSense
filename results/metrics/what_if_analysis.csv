@@ -1,0 +1,30 @@
+Changed Feature,Changed Value,Predicted Class,Less Fertile Probability,Fertile Probability,Highly Fertile Probability
+N,100.0,Less Fertile,0.97,0.03,0.0
+N,150.0,Less Fertile,0.97,0.03,0.0
+N,200.0,Less Fertile,0.97,0.03,0.0
+N,250.0,Less Fertile,0.8,0.2,0.0
+N,270.0,Fertile,0.07,0.93,0.0
+N,300.0,Fertile,0.03,0.97,0.0
+N,350.0,Fertile,0.04,0.96,0.0
+P,5.0,Fertile,0.25,0.75,0.0
+P,10.0,Fertile,0.09,0.91,0.0
+P,15.0,Fertile,0.07,0.93,0.0
+P,20.0,Fertile,0.07,0.93,0.0
+P,30.0,Fertile,0.07,0.93,0.0
+P,40.0,Fertile,0.09,0.91,0.0
+P,50.0,Fertile,0.09,0.91,0.0
+K,100.0,Fertile,0.07,0.93,0.0
+K,150.0,Fertile,0.07,0.93,0.0
+K,200.0,Fertile,0.07,0.93,0.0
+K,250.0,Fertile,0.07,0.93,0.0
+K,300.0,Fertile,0.07,0.93,0.0
+K,400.0,Fertile,0.07,0.93,0.0
+K,500.0,Fertile,0.1,0.9,0.0
+pH,5.0,Fertile,0.09,0.91,0.0
+pH,5.5,Fertile,0.09,0.91,0.0
+pH,6.0,Fertile,0.09,0.91,0.0
+pH,6.5,Fertile,0.09,0.91,0.0
+pH,7.0,Fertile,0.09,0.91,0.0
+pH,7.5,Fertile,0.09,0.91,0.0
+pH,8.0,Fertile,0.08,0.92,0.0
+pH,8.5,Fertile,0.1,0.88,0.02
